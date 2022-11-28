@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Mwai Kibaki</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Mwai Kibaki</h1>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mwai_Kibaki_2009.jpg/440px-Mwai_Kibaki_2009.jpg">
+  <h2>Biography</h2>
+  <p>Mwai Kibaki (born 15 November 1931) is a Kenyan politician who was the third President of Kenya, serving from 2002 until 2013. Before entering politics, Kibaki served as Vice-President of Kenya from 1978 to 1988 and as Minister for Finance from 1969 to 1981. He ran unsuccessfully for President in 1992 and 1997, before winning the 2002 presidential election. He was re-elected in the 2007 presidential election. </p>
+  
+  <h2>Early life and education</h2>
+  <p>Kibaki was born in 1931 in Mberengwa, Southern Rhodesia, to parents Timamy Kibaki and Teresia Wanjiku. His family was part of the Kikuyu people.  He attended Gatuyaini Primary School and Alliance High School. In 1957, he graduated from Makerere University in Uganda with a Bachelor of Arts in Economics and Political Science. He later received a Master of Arts in Economics from the University of Manchester in 1961, and a PhD in Economics from the University of London in 1971.</p>
+  
+  <h2>Career</h2>
+  <p>Kibaki joined the civil service in 1961 as an economist in the Ministry of Finance. In 1963, he was appointed a lecturer at the University of Nairobi. From 1969 to 1981, he served as Kenya's Minister of Finance. He oversaw Kenya's transition from a primarily agricultural economy to a diversified economy with an increasingly significant manufacturing sector. He also oversaw a period of rapid economic growth in the 1970s, during which Kenya's per capita income rose from US$190 in 1969 to US$420 in 1980.</p>
+  
+  <h2>Awards and honors</h2>
+  <ul>
+    <li>Grand Cordon of the Order of the Rising Sun (2005)</li>
+    <li>Honorary Knight Grand Cross of the Order of the British Empire (2005)</li>
+    <li>Honorary doctorate from the University of Manchester (2007)</li>
+    <li>Indira Gandhi Prize (2008)</li>
+  </ul>
+  
+  <h2>References</h2>
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/Mwai_Kibaki">Mwai Kibaki</a></li>
+    <li><a href="https://www.britannica.com/biography/Mwai-Kibaki">Mwai Kibaki | Biography, Presidency, & Facts</a></li>
+    <li><a href="https://www.thebiographychannel.co.uk/biographies/mwai-kibaki.php">Mwai Kibaki biography</a></li>
+  </ul>
+  
+</body>
+</html>
